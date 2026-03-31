@@ -163,11 +163,6 @@ const About = () => {
               <img src="/download.png" alt="Download" className="w-6 h-6" />
               <span className="text-sm sm:text-base whitespace-nowrap">My Resume</span>
             </a>
-            A
-
-
-
-
           </motion.div>
         </motion.div>
       </div>
