@@ -156,13 +156,13 @@ const About = () => {
             </a>
 
             <a
-              href="/Nitin_Jangid_Resume.pdf"
-              download
-              className="px-6 py-3 border border-gray-600 rounded-lg hover:border-blue-400 flex items-center gap-2"
-            >
-              <img src="/download.png" alt="Download" className="w-7 h-7 sm:w-8 sm:h-8" />
-              My Resume
-            </a>
+  href="/Nitin_Jangid_Resume.pdf"
+  download
+  className="px-6 py-3 border border-gray-600 rounded-lg hover:border-blue-400 flex items-center gap-2"
+>
+  <img src="/download.png" alt="Download" className="w-7 h-7 sm:w-8 sm:h-8" />
+  My Resume
+</a>
 
 
           </motion.div>
