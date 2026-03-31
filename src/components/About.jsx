@@ -158,11 +158,12 @@ const About = () => {
             <a
               href="/Nitin_Jangid_Resume.pdf"
               download="Nitin_Jangid_Resume.pdf"
-              className="px-5 py-3 border border-gray-600 rounded-lg hover:border-blue-400 flex items-center justify-center gap-3"
+              className="inline-flex items-center justify-center px-5 py-3 border border-gray-600 rounded-lg hover:border-blue-400 space-x-2 max-w-fit"
             >
               <img src="/download.png" alt="Download" className="w-6 h-6" />
-              <span className="text-sm sm:text-base">My Resume</span>
+              <span className="text-sm sm:text-base whitespace-nowrap">My Resume</span>
             </a>
+            A
 
 
 
